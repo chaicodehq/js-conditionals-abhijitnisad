@@ -1,3 +1,5 @@
+ /*npm run test:file tests/02-traffic-light.spec.js */
+
 # JavaScript Conditionals Lab
 
 Master JavaScript conditionals through **12 real-world, story-based challenges**. Each question puts you in a scenario where you need to write the logic using `if/else`, `switch`, ternary operators, and logical operators.
